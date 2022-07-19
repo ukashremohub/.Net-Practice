@@ -1,0 +1,15 @@
+C:\Users\uwaran\source\repos\InterfaceExamples\InterfaceExamples\bin\Debug\net6.0\InterfaceExamples.exe
+C:\Users\uwaran\source\repos\InterfaceExamples\InterfaceExamples\bin\Debug\net6.0\InterfaceExamples.deps.json
+C:\Users\uwaran\source\repos\InterfaceExamples\InterfaceExamples\bin\Debug\net6.0\InterfaceExamples.runtimeconfig.json
+C:\Users\uwaran\source\repos\InterfaceExamples\InterfaceExamples\bin\Debug\net6.0\InterfaceExamples.dll
+C:\Users\uwaran\source\repos\InterfaceExamples\InterfaceExamples\bin\Debug\net6.0\InterfaceExamples.pdb
+C:\Users\uwaran\source\repos\InterfaceExamples\InterfaceExamples\obj\Debug\net6.0\InterfaceExamples.csproj.AssemblyReference.cache
+C:\Users\uwaran\source\repos\InterfaceExamples\InterfaceExamples\obj\Debug\net6.0\InterfaceExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uwaran\source\repos\InterfaceExamples\InterfaceExamples\obj\Debug\net6.0\InterfaceExamples.AssemblyInfoInputs.cache
+C:\Users\uwaran\source\repos\InterfaceExamples\InterfaceExamples\obj\Debug\net6.0\InterfaceExamples.AssemblyInfo.cs
+C:\Users\uwaran\source\repos\InterfaceExamples\InterfaceExamples\obj\Debug\net6.0\InterfaceExamples.csproj.CoreCompileInputs.cache
+C:\Users\uwaran\source\repos\InterfaceExamples\InterfaceExamples\obj\Debug\net6.0\InterfaceExamples.dll
+C:\Users\uwaran\source\repos\InterfaceExamples\InterfaceExamples\obj\Debug\net6.0\refint\InterfaceExamples.dll
+C:\Users\uwaran\source\repos\InterfaceExamples\InterfaceExamples\obj\Debug\net6.0\InterfaceExamples.pdb
+C:\Users\uwaran\source\repos\InterfaceExamples\InterfaceExamples\obj\Debug\net6.0\InterfaceExamples.genruntimeconfig.cache
+C:\Users\uwaran\source\repos\InterfaceExamples\InterfaceExamples\obj\Debug\net6.0\ref\InterfaceExamples.dll
