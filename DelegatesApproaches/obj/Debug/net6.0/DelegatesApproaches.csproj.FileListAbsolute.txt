@@ -1,0 +1,15 @@
+C:\Users\uwaran\source\repos\DapperEx\DelegatesApproaches\bin\Debug\net6.0\DelegatesApproaches.exe
+C:\Users\uwaran\source\repos\DapperEx\DelegatesApproaches\bin\Debug\net6.0\DelegatesApproaches.deps.json
+C:\Users\uwaran\source\repos\DapperEx\DelegatesApproaches\bin\Debug\net6.0\DelegatesApproaches.runtimeconfig.json
+C:\Users\uwaran\source\repos\DapperEx\DelegatesApproaches\bin\Debug\net6.0\DelegatesApproaches.dll
+C:\Users\uwaran\source\repos\DapperEx\DelegatesApproaches\bin\Debug\net6.0\DelegatesApproaches.pdb
+C:\Users\uwaran\source\repos\DapperEx\DelegatesApproaches\obj\Debug\net6.0\DelegatesApproaches.csproj.AssemblyReference.cache
+C:\Users\uwaran\source\repos\DapperEx\DelegatesApproaches\obj\Debug\net6.0\DelegatesApproaches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uwaran\source\repos\DapperEx\DelegatesApproaches\obj\Debug\net6.0\DelegatesApproaches.AssemblyInfoInputs.cache
+C:\Users\uwaran\source\repos\DapperEx\DelegatesApproaches\obj\Debug\net6.0\DelegatesApproaches.AssemblyInfo.cs
+C:\Users\uwaran\source\repos\DapperEx\DelegatesApproaches\obj\Debug\net6.0\DelegatesApproaches.csproj.CoreCompileInputs.cache
+C:\Users\uwaran\source\repos\DapperEx\DelegatesApproaches\obj\Debug\net6.0\DelegatesApproaches.dll
+C:\Users\uwaran\source\repos\DapperEx\DelegatesApproaches\obj\Debug\net6.0\refint\DelegatesApproaches.dll
+C:\Users\uwaran\source\repos\DapperEx\DelegatesApproaches\obj\Debug\net6.0\DelegatesApproaches.pdb
+C:\Users\uwaran\source\repos\DapperEx\DelegatesApproaches\obj\Debug\net6.0\DelegatesApproaches.genruntimeconfig.cache
+C:\Users\uwaran\source\repos\DapperEx\DelegatesApproaches\obj\Debug\net6.0\ref\DelegatesApproaches.dll
